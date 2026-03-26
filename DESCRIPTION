@@ -3,7 +3,7 @@ Type: Package
 Title: Industrial Color Theory Palette
 Version: 0.1.0
 Authors@R: 
-person("Addo", "Newton",  ,"first.last@example.com", role = c("aut", "cre"))
+person("Addo", "Newton", email = "first.last@example.com", role = c("aut", "cre"))
 Description: A reusable industrial color palette for categorical, diverging, and sequential data visualization.
 License: MIT
 Encoding: UTF-8
